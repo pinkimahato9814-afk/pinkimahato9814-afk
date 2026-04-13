@@ -1,10 +1,10 @@
-# 👩‍💻 Pinki Kumari
+#  Pinki Kumari
 
-🎯 Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast  
+ Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast  
 
 ---
 
-## 🔍 About Me
+##  About Me
 - Passionate about **Data Science, Data Analysis, and Machine Learning**
 - Skilled in turning **data into actionable insights**
 - Currently learning and building projects in:
@@ -24,7 +24,7 @@
 
 ## 📊 Projects
 🔹 Explore my projects here:  
-👉 https://pinkimahato9814-afk.github.io/Portfolio-Website/
+ https://pinkimahato9814-afk.github.io/Portfolio-Website/
 
 Projects include:
 - Data Analysis & Visualization
@@ -33,23 +33,23 @@ Projects include:
 
 ---
 
-## 📚 Currently Learning
-🌱 Advanced Machine Learning & AI  
-🌱 Model Deployment  
-🌱 Deep Learning  
+##  Currently Learning
+ Advanced Machine Learning & AI  
+ Model Deployment  
+ Deep Learning  
 
 ---
 
-## 🎯 Career Goal
-💼 Seeking opportunities in **Data Science / Data Analysis**  
+##  Career Goal
+ Seeking opportunities in **Data Science / Data Analysis**  
 to apply analytical skills and grow in the field.
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: pinkeymahato181@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/pinki-kumari-6a6a133a5/
+##  Connect With Me
+-  Email: pinkeymahato181@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/pinki-kumari-6a6a133a5/
 
 ---
 
-⭐ *Always curious to learn and explore data-driven solutions!*
+*Always curious to learn and explore data-driven solutions!*
