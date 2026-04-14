@@ -8,13 +8,13 @@
 - Passionate about **Data Science, Data Analysis, and Machine Learning**
 - Skilled in turning **data into actionable insights**
 - Currently learning and building projects in:
-  - Machine Learning 🤖
-  - Data Visualization 📊
-  - Statistical Analysis 📈
+  - Machine Learning 
+  - Data Visualization 
+  - Statistical Analysis 
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 - **Programming:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Tools:** Jupyter Notebook, Git, GitHub  
@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 Projects
+##  Projects
 🔹 Explore my projects here:  
  https://pinkimahato9814-afk.github.io/Portfolio-Website/
 
