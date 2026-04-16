@@ -15,11 +15,12 @@
 ---
 
 ##  Skills & Tools
-- **Programming:** Python, SQL  
+- **Programming:** Python, SQL,C,C++,React,nodejs,Aurdino
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Tools:** Jupyter Notebook, Git, GitHub  
-- **Concepts:** Data Cleaning, EDA, Machine Learning Models  
-
+- **Tools:** Jupyter Notebook, Git, GitHub,google colab,google sheet,Replit
+- **Concepts:** Data Cleaning, EDA, Machine Learning Models
+- **Data Visualization tools:** Power BI & Tableau 
+- **Spreadsheet tools:** Excel & Google Sheets 
 ---
 
 ##  Projects
