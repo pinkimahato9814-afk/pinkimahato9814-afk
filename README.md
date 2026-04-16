@@ -42,7 +42,7 @@ Projects include:
 ---
 
 ##  Career Goal
- Seeking opportunities in **Data Science / Data Analysis**  
+ Seeking opportunities in **Data Science / Data Analysis/Machine Learning**  
 to apply analytical skills and grow in the field.
 
 ---
